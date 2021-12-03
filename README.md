@@ -1,5 +1,5 @@
 ## **Manni Kheradmandi**
-#
+
 I am a senior GIS Analyst at [Attexo](https://www.attexo.com.au/), Queensland, Australia. 
 
 [Linkedin Profile](https://www.linkedin.com/in/maani-kheradmandi/)
@@ -34,20 +34,6 @@ A highly dedicated GIS Analyst with over 5 years of experience in data gathering
 
 
 
-
-
-
-### Hi there 👋
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 <!--
